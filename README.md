@@ -13,22 +13,39 @@
 
 I am a Computer and Software Engineering graduate focused on building **real-time systems for monitoring, incident detection, and automated recovery**.
 
-I specialize in designing simulation-based engineering systems that replicate real-world operational environments such as drone fleets, ground infrastructure monitoring, and automated alerting pipelines.
+I specialize in designing simulation-based engineering systems that replicate real-world operational environments such as drone fleets, infrastructure monitoring systems, and automated alerting pipelines.
 
 My work focuses on:
-- Real-time telemetry monitoring systems
-- Incident detection and classification engines
-- Log processing and anomaly detection pipelines
-- Automated alerting and escalation systems
-- Self-healing and recovery simulations
+
+- System telemetry analysis  
+- Incident detection & classification  
+- Log processing pipelines  
+- Automated alerting and escalation systems  
+- Simulation-based engineering systems  
 
 I build **Python-based backend systems** that simulate production-level reliability engineering workflows.
 
 ---
 
+# 🧩 Engineering Approach
+
+I build simulation-driven systems that replicate real-world operational environments.
+
+Instead of only building CRUD applications, I focus on:
+
+- Event-driven system design  
+- Real-time data processing  
+- Failure simulation and detection  
+- Automated incident response workflows  
+- System reliability and operational monitoring  
+
+My goal is to develop engineering systems that behave like production infrastructure used in real companies.
+
+---
+
 # ⚙️ Current Focus
 
-- Drone fleet telemetry simulation systems  
+- Drone fleet simulation systems  
 - Real-time incident detection engines  
 - System health monitoring platforms  
 - Automated recovery & response systems  
@@ -49,13 +66,13 @@ I build **Python-based backend systems** that simulate production-level reliabil
 # 🚀 Featured Projects
 
 ## 🛸 Drone Fleet Incident Detection System
-Simulates drone telemetry streams and detects failures in real time using anomaly detection and rule-based classification.
+Real-time simulation system that generates drone telemetry streams, detects anomalies, classifies failures, and produces structured incident reports.
 
 ## 📡 System Health Monitoring Engine
-Monitors multiple systems simultaneously and triggers tiered alerts (WARNING / CRITICAL / EMERGENCY) based on live metrics.
+Multi-system monitoring platform that tracks live infrastructure metrics and triggers tiered alerts (WARNING / CRITICAL / EMERGENCY).
 
 ## 🔧 Automated Recovery & Response Engine
-Executes recovery playbooks automatically and generates structured incident reports after system failures.
+Self-healing system simulation that executes recovery playbooks and generates post-incident reports when failures occur.
 
 ---
 
@@ -69,7 +86,7 @@ Executes recovery playbooks automatically and generates structured incident repo
 
 # 🎯 Goal
 
-Building engineering simulation systems that replicate real-world **Service Engineering and Reliability Operations** used in high-availability environments.
+To build engineering simulation systems that replicate real-world **Service Engineering and Reliability Operations** used in high-availability environments such as drone logistics and distributed infrastructure systems.
 
 ---
 
