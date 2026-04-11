@@ -1,6 +1,6 @@
 # Habimana Moise
 
-### Service Engineer | Systems Engineering | Incident Detection | Python Backend Developer
+## Systems Engineer | Incident Detection & Reliability Systems | Python Backend Developer
 
 📍 Kigali, Rwanda  
 📧 habmose10@gmail.com  
@@ -9,69 +9,72 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I am a Computer and Software Engineering graduate focused on building **real-time systems for monitoring, detection, and automated incident response**.
+I am a Computer and Software Engineering graduate focused on building **real-time systems for monitoring, incident detection, and automated recovery**.
+
+I specialize in designing simulation-based engineering systems that replicate real-world operational environments such as drone fleets, ground infrastructure monitoring, and automated alerting pipelines.
 
 My work focuses on:
-- System telemetry analysis
-- Incident detection & classification
-- Log processing pipelines
-- Automated alerting systems
-- Simulation-based engineering systems
+- Real-time telemetry monitoring systems
+- Incident detection and classification engines
+- Log processing and anomaly detection pipelines
+- Automated alerting and escalation systems
+- Self-healing and recovery simulations
 
-I build **production-style systems using Python** that simulate real-world operational environments.
-
----
-
-## ⚙️ Current Focus
-
-- Drone fleet simulation systems
-- Real-time incident detection engines
-- System health monitoring platforms
-- Automated recovery & response systems
+I build **Python-based backend systems** that simulate production-level reliability engineering workflows.
 
 ---
 
-## 🧠 Technical Skills
+# ⚙️ Current Focus
 
-**Languages:** Python, SQL  
+- Drone fleet telemetry simulation systems  
+- Real-time incident detection engines  
+- System health monitoring platforms  
+- Automated recovery & response systems  
+- Log-based anomaly detection pipelines  
+
+---
+
+# 🧠 Technical Skills
+
+**Languages:** Python, SQL, JavaScript  
 **Backend:** Django, FastAPI  
-**Systems:** Log Analysis, Monitoring Systems, Incident Detection  
+**Systems:** Log Analysis, Monitoring Systems, Incident Detection, Distributed Simulation Systems  
+**Data:** Pandas, NumPy, Scikit-learn  
 **Tools:** Git, GitHub, Docker  
-**Data:** Pandas, Scikit-learn  
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🛸 Drone Incident Detection System
-Simulates drone telemetry and detects failures in real time using anomaly detection.
+## 🛸 Drone Fleet Incident Detection System
+Simulates drone telemetry streams and detects failures in real time using anomaly detection and rule-based classification.
 
-### 📡 System Health Monitoring Engine
-Monitors multiple systems and triggers tiered alerts (WARNING / CRITICAL / EMERGENCY).
+## 📡 System Health Monitoring Engine
+Monitors multiple systems simultaneously and triggers tiered alerts (WARNING / CRITICAL / EMERGENCY) based on live metrics.
 
-### 🔧 Automated Recovery Engine
-Executes recovery playbooks and generates incident reports after failures.
-
----
-
-## 📜 Certifications
-
-- Machine Learning Bootcamp — Zero To Mastery (Udemy)
-- Django Development — Solvit Africa
-- CCNA — Cisco
+## 🔧 Automated Recovery & Response Engine
+Executes recovery playbooks automatically and generates structured incident reports after system failures.
 
 ---
 
-## 📫 Contact
+# 📜 Certifications
 
-Email: habmose10@gmail.com  
-GitHub: https://github.com/moise744  
-LinkedIn: https://linkedin.com/in/habimana-moise  
+- Machine Learning Bootcamp — Zero To Mastery (Udemy)  
+- Django Development — Solvit Africa  
+- CCNA — Cisco  
 
 ---
 
-## 🎯 Goal
+# 🎯 Goal
 
-Building engineering simulation systems that reflect real-world Service Engineering operations.
+Building engineering simulation systems that replicate real-world **Service Engineering and Reliability Operations** used in high-availability environments.
+
+---
+
+# 📫 Contact
+
+📧 Email: habmose10@gmail.com  
+🔗 GitHub: https://github.com/moise744  
+🔗 LinkedIn: https://linkedin.com/in/habimana-moise  
