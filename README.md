@@ -1,40 +1,77 @@
-# Hi, I'm Moise 
+# Habimana Moise
 
- **Python Developer & Machine Learning Engineer**  
- Kigali, Rwanda  
+### Service Engineer | Systems Engineering | Incident Detection | Python Backend Developer
 
-I’m passionate about building AI-powered applications, financial market analysis tools, and scalable backend systems. I enjoy solving real-world problems with Python, Machine Learning, and Cloud technologies.  
-
----
-
-##  Featured Projects  
-
-- **[Financial Markets ML Analysis System](https://github.com/moise744/Financial-Markets-ML-Analysis)**  
-  End-to-end ML system analyzing economic factors affecting financial markets.  
-  *Tech:* Python, FastAPI, Django, ARIMA, Pandas, Scikit-learn  
-
-- **[AWS ML Workflow (Capstone)](https://github.com/moise744/aws-ml-workflow)**  
-  Complete machine learning pipeline on AWS SageMaker with monitoring & deployment.  
-  *Tech:* AWS SageMaker, Python, AutoGluon  
-
-- **[AWS DeepRacer Optimization](https://github.com/moise744/deepracer-optimization)**  
-  Reinforcement learning algorithms for autonomous racing — Top 10% in Rwanda.  
-  *Tech:* Reinforcement Learning, AWS  
+📍 Kigali, Rwanda  
+📧 habmose10@gmail.com  
+🔗 GitHub: https://github.com/moise744  
+🔗 LinkedIn: https://linkedin.com/in/habimana-moise  
 
 ---
 
-##  Tech Stack  
+## 🚀 About Me
 
-- **Languages:** Python, SQL, JavaScript  
-- **Frameworks:** Django, FastAPI, Scikit-learn  
-- **Databases:** PostgreSQL, SQLite  
-- **Cloud:** AWS SageMaker, DeepRacer, Deployment & Monitoring  
-- **Other:** Docker, Git, Web Scraping (Selenium, BeautifulSoup)  
+I am a Computer and Software Engineering graduate focused on building **real-time systems for monitoring, detection, and automated incident response**.
+
+My work focuses on:
+- System telemetry analysis
+- Incident detection & classification
+- Log processing pipelines
+- Automated alerting systems
+- Simulation-based engineering systems
+
+I build **production-style systems using Python** that simulate real-world operational environments.
 
 ---
 
-##  Connect With Me  
+## ⚙️ Current Focus
 
--  [LinkedIn](https://www.linkedin.com/in/habimana-moise)  
--  [GitHub](https://github.com/moise744)  
--  habmose1@gmail.com  
+- Drone fleet simulation systems
+- Real-time incident detection engines
+- System health monitoring platforms
+- Automated recovery & response systems
+
+---
+
+## 🧠 Technical Skills
+
+**Languages:** Python, SQL  
+**Backend:** Django, FastAPI  
+**Systems:** Log Analysis, Monitoring Systems, Incident Detection  
+**Tools:** Git, GitHub, Docker  
+**Data:** Pandas, Scikit-learn  
+
+---
+
+## 🚀 Featured Projects
+
+### 🛸 Drone Incident Detection System
+Simulates drone telemetry and detects failures in real time using anomaly detection.
+
+### 📡 System Health Monitoring Engine
+Monitors multiple systems and triggers tiered alerts (WARNING / CRITICAL / EMERGENCY).
+
+### 🔧 Automated Recovery Engine
+Executes recovery playbooks and generates incident reports after failures.
+
+---
+
+## 📜 Certifications
+
+- Machine Learning Bootcamp — Zero To Mastery (Udemy)
+- Django Development — Solvit Africa
+- CCNA — Cisco
+
+---
+
+## 📫 Contact
+
+Email: habmose10@gmail.com  
+GitHub: https://github.com/moise744  
+LinkedIn: https://linkedin.com/in/habimana-moise  
+
+---
+
+## 🎯 Goal
+
+Building engineering simulation systems that reflect real-world Service Engineering operations.
