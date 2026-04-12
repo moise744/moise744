@@ -3,9 +3,9 @@
 ## Systems Engineer | Incident Detection & Reliability Systems | Python Backend Developer
 
 📍 Kigali, Rwanda  
-📧 habmose10@gmail.com  
+📧 habmose1@gmail.com  
 🔗 GitHub: https://github.com/moise744  
-🔗 LinkedIn: https://linkedin.com/in/habimana-moise  
+🔗 LinkedIn: https://www.linkedin.com/in/habimana-moise/  
 
 ---
 
@@ -92,6 +92,6 @@ To build engineering simulation systems that replicate real-world **Service Engi
 
 # 📫 Contact
 
-📧 Email: habmose10@gmail.com  
+📧 Email: habmose1@gmail.com  
 🔗 GitHub: https://github.com/moise744  
 🔗 LinkedIn: https://linkedin.com/in/habimana-moise  
