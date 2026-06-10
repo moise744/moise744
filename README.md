@@ -92,6 +92,6 @@ To build engineering simulation systems that replicate real-world **Service Engi
 
 # 📫 Contact
 
-📧 Email: habmose1@gmail.com  
+📧 Email: habimanamoise77@gmail.com  
 🔗 GitHub: https://github.com/moise744  
 🔗 LinkedIn: https://linkedin.com/in/habimana-moise  
