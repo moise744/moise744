@@ -6,7 +6,7 @@
 
 Building intelligent visual inspection systems, object detection pipelines, and industrial computer vision applications.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/habimana-moise/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/habimana-moise-0a60bb3b6/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-moise744.github.io-000?style=flat&logo=github)](https://moise744.github.io)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail)](mailto:habimanamoise77@gmail.com)
 
@@ -94,16 +94,20 @@ Visual inspection system that verifies whether manufactured components are corre
 
 ## Professional Experience
 
-### Data Annotation Specialist — Renew Capital
-- Annotated large-scale video and image datasets for machine learning systems
-- Created bounding box, polygon, and keypoint annotations for object detection and segmentation models
-- Performed annotation quality assurance to ensure dataset reliability
-- Supported structured data labeling workflows for computer vision pipelines
+### Computer Vision Engineer (Part-time / Project-based) — Binary Hub
+*December 2025 – October 2026*
+- Implemented computer vision solutions across industrial manufacturing and agricultural applications, translating practical visual-inspection and image-recognition requirements into machine learning systems.
+- **Industrial Defect Detection**: Implemented computer vision workflows to identify and localize manufacturing defects, including scratches, cracks, dents, and surface irregularities.
+- **Industrial Visual Quality Inspection**: Developed visual inspection solutions to identify missing, damaged, and incorrectly positioned product components and assess product quality.
+- **Agricultural Disease & Fruit Detection**: Implemented image recognition and object detection workflows for fruit identification, visual condition analysis, disease-symptom recognition, and automated counting.
+- Applied Python, PyTorch, YOLO, OpenCV, TensorFlow, and Scikit-learn across computer vision and machine learning development workflows.
 
-### Data Annotation — Ready to Bloom
-- Contributed to image and video annotation projects supporting ML model development
-- Worked with annotation tools for object detection and segmentation tasks
-- Ensured annotation consistency and quality standards
+### Computer Vision Data Specialist — Renew Capital
+*January 2026 – September 2026*
+- Worked with real-world video datasets supporting computer vision applications, visual recognition, and video understanding.
+- Performed frame-level object annotation, bounding-box labeling, object identification, and temporal event annotation using CVAT.
+- Reviewed visual annotations and object classifications to identify missed objects, inaccurate bounding boxes, and inconsistencies across video sequences.
+- Conducted dataset quality assurance and supported the preparation of structured visual data for machine learning applications.
 
 ---
 
@@ -116,6 +120,6 @@ Visual inspection system that verifies whether manufactured components are corre
 ## Contact
 
 - 📧 habimanamoise77@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/habimana-moise/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/habimana-moise-0a60bb3b6/)
 - 🌐 [Portfolio](https://moise744.github.io)
 - 💻 [GitHub](https://github.com/moise744)
